@@ -1,0 +1,25 @@
+{
+    "code": 200,
+    "searchapi": [
+       
+        {
+            "title": "经典三级",
+            "api": "http://api1.feylen6.top",
+            "platform": "video2/97dianying/97dy",
+            "type": "视频",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        },
+         {
+            "title": "博天堂",
+            "api": "http://api1.feylen6.top",
+            "platform": "video2/botiantang/btt",
+            "type": "视频",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        }
+ 
+    ]
+}

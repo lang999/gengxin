@@ -1,0 +1,52 @@
+{
+    "code": 200,
+    "searchapi": [
+	{
+            "title": "ºÙºÙÁ¬ÔØ",
+            "api": "http://api1.feylen6.top",
+            "platform": "comic/heiheilz",
+            "type": "Âþ»­",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        },
+	{
+            "title": "½ûÂþÌìÌÃ",
+            "api": "http://api1.feylen6.top",
+            "platform": "comic/jinmantt",
+            "type": "Âþ»­",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        },
+	{
+            "title": "UAAÂþ»­",
+            "api": "http://api1.feylen6.top",
+            "platform": "comic/uaa",
+            "type": "Âþ»­",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        },
+        {
+            "title": "¾ÅÑýÂþ»­",
+            "api": "http://api1.feylen6.top",
+            "platform": "comic/jiuyao",
+            "type": "Âþ»­",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        },
+       {
+            "title": "ÉðÊ¿Âþ»­",
+            "api": "http://api1.feylen6.top",
+            "platform": "comic/ssmh",
+            "type": "Âþ»­",
+            "kuan": 120,
+           "gao": 180,
+            "lieshu": 2
+        }
+
+
+    ]
+}

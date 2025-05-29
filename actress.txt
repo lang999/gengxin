@@ -1,0 +1,117 @@
+{
+"code": 200,
+"searchapi": [
+{
+"title": "日本专区",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "erji/missav/missav",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "香蕉女优",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "nvyou/xiangjiao/xiangjiao",
+"type": "视频",
+"kuan": 120,
+"gao": 75,
+"lieshu": 2
+},
+{
+"title": "水果派",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video1/shuiguopai",
+"type": "视频",
+"kuan": 120,
+"gao": 75,
+"lieshu": 2
+},
+{
+"title": "JAV日本",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/jav123/jav",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+
+
+{
+"title": "麻豆最新",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/qiqian/mogu/mogu",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "全球搜",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/xvideos/xv/xvideos",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "国产传媒",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/qiqian/madou/madou",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "麻豆精选",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/madouchuanmei/md",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "麻豆女优",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/wanoujiejie/md",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "91porn[搜]",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "video2/91pornsou/91sou",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+{
+"title": "91大神",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "erji/roushipin/rousp",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+},
+
+{
+"title": "欧美女优",
+"api": "http://randomapi03.changfapiaopiao.top",
+"platform": "nvyou/xgroovy/xgroovy",
+"type": "视频",
+"kuan": 250,
+"gao": 150,
+"lieshu": 1
+}
+
+]
+}

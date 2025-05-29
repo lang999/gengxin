@@ -1,0 +1,113 @@
+{
+    "code": 200,
+    "searchapi": [
+        
+ {
+            "title": "幻想小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/huanxiang",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+
+{
+            "title": "禁忌书屋",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/jinjishuwu",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+{
+            "title": "UAA小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/uaa",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+{
+            "title": "集书阁",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/jishuge",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+        {
+            "title": "月亮小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/yueliang",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+ 
+         {
+            "title": "book18",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/book18",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+
+		{
+            "title": "老鸭小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/laoya",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+{
+            "title": "Jkun小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/jkun",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+        {
+            "title": "乐播小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel//sousuo/lebo",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+		{
+            "title": "155小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/155",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        },
+	
+		
+		{
+
+            "title": "草榴小说",
+            "api": "http://randomapi03.changfapiaopiao.top",
+            "platform": "novel/sousuo/caoliu",
+            "type": "小说",
+            "kuan": 120,
+           "gao": 0,
+            "lieshu": 1
+        }
+
+ 
+    ]
+}

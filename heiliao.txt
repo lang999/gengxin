@@ -1,0 +1,72 @@
+{
+    "code": 200,
+    "searchapi": [
+    
+ {
+            "title": "黑料不打烊",
+            "api": "http://api1.feylen6.top",
+            "platform": "video2/heiliaobdy/hlbdy",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        },
+
+        {
+            "title": "51吃瓜",
+            "api": "http://api1.feylen6.top",
+            "platform": "video2/51chigua/51cg",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        },
+    {
+            "title": "tiktok18圈子",
+            "api": "http://api1.feylen6.top",
+            "platform": "heiliao/tiktok18/tiktok18",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        },
+        {
+            "title": "吃瓜网",
+            "api": "http://api1.feylen6.top",
+            "platform": "video2/chiguawang/cgw",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        },
+        {
+            "title": "主播福利专搜",
+            "api": "http://api1.feylen6.top",
+            "platform": "heiliao/kanliao/kanliao",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        },
+        {
+            "title": "瓜太郎",
+            "api": "http://api1.feylen6.top",
+            "platform": "video2/guatailang/gtl",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        },
+       
+         {
+            "title": "海角社区",
+            "api": "http://api1.feylen6.top",
+            "platform": "video1/haijiao/haijiao",
+            "type": "黑料",
+            "kuan": 250,
+            "gao": 80,
+            "lieshu": 1
+        }
+ 
+    ]
+}
