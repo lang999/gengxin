@@ -1,0 +1,82 @@
+{
+    "code": 200,
+   "searchwd": "http://api1.changfapiaopiao.top/searchword/ssword.php",
+
+    "config": [
+	
+	{
+            "title": "视频",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/video.txt"
+            
+        },
+{
+            "title": "全网破解",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/xiaojingling_new.txt"
+            
+        },
+         {
+            "title": "福利",
+            "api": "http://003.22s.lol",
+            "platform": "/searchconfig/appdaohang.txt"
+            
+        },
+ {
+            "title": "短视频",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/shortv.txt"
+            
+        },
+        {
+            "title": "女优",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/actress.txt"
+            
+        },
+        {
+            "title": "番号",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/number.txt"
+            
+        },
+{
+            "title": "约炮",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/yuepao.txt"
+            
+        },
+     {
+            "title": "吃瓜",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/heiliao.txt"
+           
+        },
+{
+            "title": "三级",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/sanji.txt"
+           
+        },
+        {
+            "title": "小说",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/novel.txt"
+           
+        },
+
+        {
+            "title": "漫画",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/comic.txt"
+           
+        },
+
+        {
+            "title": "图片",
+            "api": "https://github.com/lang999/gengxin/raw/refs/heads/main",
+            "platform": "/picture.txt"
+        }
+        
+    ]
+}
